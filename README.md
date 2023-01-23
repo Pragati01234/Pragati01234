@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://github.com/Pragati01234](https://github.com/Pragati01234)
 - 👨‍💻 Linkedin Profile : [https://www.linkedin.com/in/pragati-kumari-3967771b8/](https://www.linkedin.com/in/pragati-kumari-3967771b8/)
 - 👨‍💻 LeetCode Profile :[https://leetcode.com/pragatikumarikp_cse19/](https://leetcode.com/pragatikumarikp_cse19/)
+ ~Skilled in C ,Java, Data Structures and Algorithms, Database Management Systems(DBMS), Object-Oriented Programming System (OOPs), Operating Systems (OS), Software Engineering, Data Analytics & Computer Networks. Pursuing BTech specialized in Computer Science Engineering from Dr. A.P.J. Abdul Kalam Technical University.
+~I have a basic knowledge of Web Development Tools like Hypertext Markup Language (HTML), Cascading Style Sheets (CSS), Bootstrap, Hypertext Preprocessor (PHP) & My Structured Query Language (MySql).
+~Also,
+I have a basic Knowledge of some Machine Learning Libraries such as Pandas (a Python library used for working with data sets ) , Numerical Python (Numpy) & Matplotlib (Python Plotting Library)
+• My communication skills are a major trait I am proud of,
+also, I have a good understanding of human behavior which helps me deal with difficult situations and makes it easier for me to work. I am bilingual, knowing both English and Hindi, with expertise in both written and communication.
+
+• I plan on becoming a skilled professional who is willing to
+dive deep into their area of interest.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
