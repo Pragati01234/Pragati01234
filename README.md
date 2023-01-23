@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragati01234" alt="pragati01234" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pragati01234](https://github.com/Pragati01234)
+- 👨‍💻 Linkedin Profile : [https://www.linkedin.com/in/pragati-kumari-3967771b8/](https://www.linkedin.com/in/pragati-kumari-3967771b8/)
+- 👨‍💻 LeetCode Profile :[https://leetcode.com/pragatikumarikp_cse19/](https://leetcode.com/pragatikumarikp_cse19/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
