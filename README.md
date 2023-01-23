@@ -34,7 +34,7 @@ I have a basic Knowledge of some Machine Learning Libraries such as Pandas (a Py
 also, I have a good understanding of human behavior which helps me deal with difficult situations and makes it easier for me to work. I am bilingual, knowing both English and Hindi, with expertise in both written and communication.
 
 • I plan on becoming a skilled professional who is willing to
-dive deep into their area of interest.
+dive deep into my area of interest.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
